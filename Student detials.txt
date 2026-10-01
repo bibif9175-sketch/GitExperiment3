@@ -1,0 +1,5 @@
+Name: Bibi Fathima 
+USN: 1GC25CS010
+Sem: 3rd
+Branch: CSE
+SEC: A
